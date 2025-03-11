@@ -21,4 +21,6 @@
 18. DLight
 19. Champasak
 20. Champa
+21. Lao-Outline
+22. Phetsarath
 
