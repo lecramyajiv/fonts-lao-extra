@@ -13,3 +13,12 @@
 10. pakse-light
 11. Muangkong
 12. Muangdon
+13. Kamala
+14. LanXang
+15. DeenPhao
+16. Deenphao-light
+17. Chompi
+18. DLight
+19. Champasak
+20. Champa
+
