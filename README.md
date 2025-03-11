@@ -3,8 +3,8 @@
 Lao also called as laotian is the official language
 of Lao People's Democratic Republic.Except for the
 Phetsarath font which was developed by ICT project
-for development of STEA/UNDP of Lao PDR. Everyother
-font is developed by Danh hong of Khmertype.
+for development of STEA/UNDP of Lao PDR.Rest of the
+fonts are developed by Danh hong of Khmertype.
 This collection contains the following fonts.
 
 1. Xat
